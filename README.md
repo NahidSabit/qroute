@@ -7,7 +7,7 @@
 
 **Graph-based routing and SWAP optimization for quantum circuits on connectivity-constrained hardware.**
 
-QRoute is a personal undergraduate project exploring quantum circuit
+QRoute is a personal project exploring quantum circuit
 routing as a graph problem: implementing several routing heuristics from
 scratch, testing them rigorously, and experimentally studying when each
 one works well.
