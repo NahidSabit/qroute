@@ -1,6 +1,6 @@
 # QRoute
 
-[![Tests](https://github.com/YOUR_USERNAME/qroute/actions/workflows/tests.yml/badge.svg)](https://github.com/YOUR_USERNAME/qroute/actions/workflows/tests.yml)
+[![Tests](https://github.com/NahidSabit/qroute/actions/workflows/tests.yml/badge.svg)](https://github.com/NahidSabit/qroute/actions/workflows/tests.yml)
 [![Tests](https://img.shields.io/badge/tests-143%20passing-brightgreen.svg)](tests/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg)](pyproject.toml)
