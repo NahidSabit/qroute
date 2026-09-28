@@ -1,4 +1,4 @@
-"""Experiment 3: does logical interaction graph structure predict routing
+"""Experiment 3: does logical interaction graph-structure predict routing
 difficulty?
 
 Generates circuits whose logical interaction graphs are paths, cycles,
