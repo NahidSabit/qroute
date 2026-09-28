@@ -1,4 +1,4 @@
-# Routing algorithms
+# Routing algorithm
 
 This document explains, precisely, how each router in QRoute works. It
 assumes you've read the README's "Motivation" and "Mathematical
